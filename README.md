@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faysalwidad
+- 👋 Hi, I’m @faysaljadoum
 - 👀 I’m interested in mobile developpement
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
